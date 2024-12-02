@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# Movie Rating Web Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web sites permits us to rate (at the moment your running and using it) the popular movies. I've fetched the data from [The Movie DataBase](https://developer.themoviedb.org/docs/getting-started) (TMDB) API's.
 
 Currently, two official plugins are available:
 
