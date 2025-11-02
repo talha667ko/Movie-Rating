@@ -32,4 +32,3 @@ export const Navbar = () =>{
     </Menu>
     );
 };
-/*API aead35f3bd02266981d626e10b63ac1d */
